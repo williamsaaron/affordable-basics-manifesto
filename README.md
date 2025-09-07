@@ -13,9 +13,16 @@ This manifesto outlines an economic framework that makes basic necessities affor
 
 ### The Foundation of Prosperity
 A society's strength is measured not by the wealth of its richest citizens, but by how accessible basic necessities are to its entire population. When fundamental needs are affordable, individuals gain economic mobility, businesses have healthier workforces, and societies experience reduced inequality and social tension.
+<!--
+AW: Is ultimate strength when the basics are free then (most accessible)? Like that you bring it back to affordability.
+AW: Economic mobility = freedom. We love the word freedom, and that is really the heart of the argument for me. Am I free to pursue my calling or be my best me. No quibble with what you have, just adding to it.
+-->
 
 ### The Competitive Advantage Multiplier
 Reducing costs for basic necessities creates positive economic cascades that enhance American competitiveness. Cheaper energy reduces production costs across all sectors, making American manufacturing more competitive with countries that have lower energy costs. Affordable food improves worker health outcomes and productivity while reducing wage pressure from cost-of-living increases. Accessible basic healthcare prevents economic catastrophe from medical debt while reducing employer healthcare burden, freeing capital for innovation and expansion. When businesses face lower input costs and healthier, more stable workforces, they can compete more effectively in global markets.
+<!--
+AW: Note to self: why isn't housing in this list? It's a red hot problem right now.
+-->
 
 ---
 
@@ -25,6 +32,9 @@ Reducing costs for basic necessities creates positive economic cascades that enh
 
 **Policy Framework:**
 - **Zero tariffs** on raw materials and industrial inputs
+<!--
+AW: Drawing this line is not obvious - one step in the supply chain's input is another's output. What do you want to protect and make competitive, and what are you willing to cede to the industrializing economies (that will always be able to produce cheaper than we can)? Is the tractor an Ag input? John Deere moves all production to Mexico then? Or is it just the steel and parts to make the tractor that are tarrif-free, and that makes the US tractor competitive?
+-->
 - **Tax exemptions** for materials used in food production and energy generation
 - **Strategic material reserves** to prevent price manipulation
 
@@ -37,11 +47,17 @@ Raw materials are the building blocks of everything else in the economy. Taxing 
 - Agriculture (fertilizers, equipment, processing facilities)
 - Energy production (solar panels, wind turbines, power generation equipment)
 - Technology (semiconductors, data centers, telecommunications infrastructure)
+<!--
+AW: In theory we tariff to make production in the US competitive (Trump's arbitrary tarrifs not withstanding). So, we remove tarrifs on steel, and we flood the market with cheap Chinese steel. Or we remove the tarrifs on cars and the BYD car is the #1 selling car at literally half the price of any other car. Maybe that's good, but it requires us to pick where we want to be competitive and where we're willing to cede markets.
+-->
 
 ### 2. Energy: The Economic Lifeblood
 
 **Policy Framework:**
 - **All-energy approach** supporting nuclear, natural gas, coal, wind, hydro, and solar
+<!--
+AW: +++. I like the bigger bet on solar. What has stopped us from doing more already? Captial investment? Feels like CA has this mostly right, have we invested state money in it?
+-->
 - **Solar development priority** with enhanced incentives for America's untapped solar potential
 - **Agricultural energy subsidies** for food production
 - **Industrial energy exemptions** for manufacturing, data centers, and AI computing
@@ -55,6 +71,9 @@ Energy is the foundation of American economic competitiveness. When energy costs
 - **Tier 2**: Manufacturing, data centers, and AI computing - 25% subsidized
 - **Tier 3**: Essential services (food processing, medical facilities) - 15% subsidized
 - **Tier 4**: Non-essential commercial - market rate
+<!--
+AW: I have a love/hate with data centers. Meta and Google have enough money. What's the ARPANET equivelent for AI? I want the government identifying the foundational pieces that are best funded and regulated like a utility, that unlocks massive innovation. Not just giving Meta a tax break to invest in themselves. More startups, less oligarchs.
+-->
 
 ### 3. Food Production: Nutrition Security
 
@@ -64,6 +83,9 @@ Energy is the foundation of American economic competitiveness. When energy costs
 - **Domestic production incentives** prioritizing local and regional food systems
 - **Production subsidies** for staple foods (grains, vegetables, protein sources)
 - **Land use incentives** for food production over speculation
+<!--
+AW: You know this way better than I do. But I've read and seen John Oliver talk about factory farming, and the negative impacts of having Ag be so dependent on a small number of big companies. Similar feeling to the energy section - how do we get more good people incentivized over existing corporations?
+-->
 
 **Rationale:**
 Local and domestic food production provides superior nutrition compared to imported foods that lose vitamins, minerals, and freshness during long-distance transport and storage. Fresh produce begins losing nutritional value immediately after harvest, making proximity to consumption critical for public health. Domestic production also provides food security independence, reduces transportation costs that inflate food prices, and supports American agricultural employment. When farming inputs are tax-free, property taxes on farmland are reduced, and domestic food production is prioritized, nutritious food becomes accessible to all economic classes while strengthening America's agricultural self-sufficiency. High property taxes on agricultural land can make farming uneconomical and force reliance on lower-quality imported foods, particularly affecting small-scale and family farms that produce essential fresh food supplies.
@@ -99,9 +121,13 @@ Water is literally essential for life and food production. No American should fa
 **Scope of "Basic Healthcare":**
 - **Included**: Primary care, preventive medicine, chronic disease management, mental health counseling, reproductive health, urgent care, childbirth and natal care
 - **Excluded**: Emergency room services, specialist care (oncology, cardiology, neurology, etc.), surgery requiring specialists, advanced imaging (MRI, CT scans), elective procedures, cosmetic treatments, experimental treatments, luxury accommodations, any treatment requiring physician specialist referral
+<!--
+AW: Super interesting split. No ER care? That flips the current model on it's head - ER is the always available free option that some people rely on.
+AW: Who makes decisions? It's the hardest question, I think. Someone has to decide if a treatment is required or elective, and if an expensive treatment is needed vs. an inexpensive one. Today, it's the insurance comapnies. For most western countries, it's the government. Sounds like you're keeping an insurance company as the decision maker?
+-->
 
 **Rationale:**
-Healthcare costs are the leading cause of personal bankruptcy in the United States. By establishing a national network of Nurse Practitioners and Physician Assistants with standardized pricing independent of insurance status, we eliminate price discrimination and create predictable costs. Focusing coverage on primary and urgent care through NPs and PAs is economically sustainable while preventing most health issues from becoming expensive emergencies. Emergency room services and specialist care remain expensive precisely because they handle complex cases - covering these would make the system financially unsustainable. This targeted approach ensures excellent prenatal care to support family formation while keeping basic healthcare affordable for all.
+Healthcare costs are the leading cause of personal bankruptcy in the United States. <!-- sickening --> By establishing a national network of Nurse Practitioners and Physician Assistants with standardized pricing independent of insurance status, we eliminate price discrimination and create predictable costs. Focusing coverage on primary and urgent care through NPs and PAs is economically sustainable while preventing most health issues from becoming expensive emergencies. Emergency room services and specialist care remain expensive precisely because they handle complex cases - covering these would make the system financially unsustainable. This targeted approach ensures excellent prenatal care to support family formation while keeping basic healthcare affordable for all.
 
 **Non-Basic Care Structure:**
 All healthcare services beyond the basic care scope would continue operating through private insurance providers as they do currently. However, healthcare providers would be required to charge identical prices for all services regardless of insurance status, network participation, or payment method. This transparency requirement eliminates the current system where the same procedure can cost dramatically different amounts depending on insurance coverage, creating a fair and predictable pricing structure for all Americans while maintaining the existing insurance market for complex care.
@@ -146,6 +172,9 @@ Countries implementing versions of this framework (Denmark, Germany, Singapore) 
 
 ### "This is too expensive for government budgets"
 **Response**: The framework pays for itself through increased economic productivity, reduced social costs, and higher tax revenues from a more prosperous population. Countries with similar policies (Nordic model, Singapore) have strong fiscal positions.
+<!--
+AW: Nothing is too expensive for the government. :) Like everything, this is about priorities.
+-->
 
 ### "Markets should determine prices, not government"
 **Response**: This framework eliminates government-imposed costs (tariffs, taxes on essentials) rather than imposing price controls. It's about removing barriers, not creating them.
@@ -180,9 +209,9 @@ Countries implementing versions of this framework (Denmark, Germany, Singapore) 
 - Innovation and productivity growth
 
 ### Target Outcomes (10-year horizon)
-- Basic necessities consume <30% of median household income
+- Basic necessities consume <30% of median household income <!-- LOVE THIS -->
 - Universal access to preventive healthcare
-- 90% reduction in medical bankruptcy
+- 90% reduction in medical bankruptcy <!-- What is the 10% where this is okay? -->
 - 50% improvement in economic mobility indices
 - Top-10 global competitiveness ranking
 
